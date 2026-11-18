@@ -1,0 +1,11 @@
+# Local and confidential material must stay outside this public repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+node_modules/
+private/
+internal/
+confidential/
